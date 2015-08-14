@@ -1,0 +1,16 @@
+{
+  "author":"unknowName",
+  "name":"my-npm-package",
+  "version":"0.0.1",
+  "description":"this is description",
+  "main":"my-npm-package.js",
+  "repository":{
+	"type":"git",
+        "url":"https://github.com/tank2140896/my-npm-package.git"
+  }
+  "keywords":["my-npm-package","20150814"],
+  "dependencies":{},
+  "engines":{
+  	"node":"*"             
+  }
+}
