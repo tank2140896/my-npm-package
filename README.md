@@ -1,2 +1,2 @@
 # my-npm-package
-this is my npm package for test
+这是一个说明文件
